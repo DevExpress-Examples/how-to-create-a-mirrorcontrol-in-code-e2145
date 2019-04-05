@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/MirrorControl_CreatingManually/MainPage.xaml) (VB: [MainPage.xaml](./VB/MirrorControl_CreatingManually/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/MirrorControl_CreatingManually/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/MirrorControl_CreatingManually/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MirrorControl_CreatingManually/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MirrorControl_CreatingManually/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Create a MirrorControl in code
 
